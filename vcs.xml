@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/pratamawijaya/JalanJalan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hidayatsiang78/keratonbuton.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Pache\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\Pache\AndroidStudioProjects\ButonJalanJalan" />
   </component>
 </application>
