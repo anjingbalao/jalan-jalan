@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/hidayatsiang78/keratonbuton.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hidayatsiang78/ButonJalanJalan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Pache\AndroidStudioProjects\ButonJalanJalan" />
